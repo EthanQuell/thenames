@@ -1,0 +1,14 @@
+<html>
+    <body>
+    <h1> Creating a web page through GitHub </h1>
+    <p1>Start by going to GitHub.com and signing up.
+        Once you have created your account go to your account at the top right and select "your repositories."
+        Click on "New" and from there set the name to what describes you as in a name or whatever you go by followed up by "GitHub.io".
+        Now click "Create repository" at the bottom and select "upload an existing file" once you have arrived at the next page.
+        From there you will be adding an image using img src="" along with an html text file through Visual Studio Code.
+        After adding the files you will select "Commit changes" at the bottom.
+        Once you are finished you can type your repository into a browser to view it.
+
+    </p1>
+    </body>
+</html>
